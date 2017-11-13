@@ -2,8 +2,7 @@ kendy nguyen 13.11.2017
 eka testi
 
 muokkaus
-<<<<<<< HEAD
+
 haapa
-=======
+
 testi123
->>>>>>> b24ed97748a62db0e5833acfc28558e412ea73da
